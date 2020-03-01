@@ -1,0 +1,11 @@
+Marcia-Legere-2020 - Effects Used
+
+Apple: AUGraphicEQ
+    Q# 5
+
+Apple: AUNBandEQ
+    Q# 8.5
+    Q# 10.5
+
+Apple: AUReverb2
+    Q# 9.1
